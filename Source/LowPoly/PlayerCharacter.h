@@ -20,12 +20,20 @@ protected:
 	virtual void BeginPlay() override;
 
 	//Spring Arm Component to follow the camera behind the player
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, VisibleAnywhere, BlueprintReadWrite)
 		class USpringArmComponent* SpringArmComp;
 
 	//Player follow camera
-	UPROPERTY(VisibleAnywhere, BlueprintReadWrite)
+	UPROPERTY(EditAnywhere, VisibleAnywhere, BlueprintReadWrite)
 		class UCameraComponent* CameraComp;
+
+	//Called for forwards/backward input
+
+	void MoveForward(float InputAxis);
+
+	//Called for left/right side input
+
+	void MoveRight(float InputAxis);
 
 public:	
 	// Called every frame
