@@ -6,7 +6,7 @@
 /NAME:"UnrealEditor-VisualStudioTools.dll"
 /IGNORE:4221
 /NODEFAULTLIB
-"E:\Unreal 5\ClickTeam\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
-"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
-/OUT:"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
+"C:\Users\kuban\Documents\Unreal Projects\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.obj"
+"C:\Users\kuban\Documents\Unreal Projects\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+"C:\Users\kuban\Documents\Unreal Projects\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Default.rc2.res"
+/OUT:"C:\Users\kuban\Documents\Unreal Projects\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\UnrealEditor-VisualStudioTools.lib"
