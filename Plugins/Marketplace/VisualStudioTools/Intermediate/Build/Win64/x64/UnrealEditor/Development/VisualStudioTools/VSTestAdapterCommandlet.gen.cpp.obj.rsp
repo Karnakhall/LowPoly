@@ -1,10 +1,10 @@
-"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
+"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\UnrealEditor\Inc\VisualStudioTools\UHT\VSTestAdapterCommandlet.gen.cpp"
 /FI"E:\Unreal 5\ClickTeam\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
 /FI"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
 /Yu"E:\Unreal 5\ClickTeam\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
 /Fp"E:\Unreal 5\ClickTeam\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-/sourceDependencies "E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
+/Fo"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSTestAdapterCommandlet.gen.cpp.obj"
+/sourceDependencies "E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VSTestAdapterCommandlet.gen.cpp.dep.json"
 @"E:\Unreal 5\ClickTeam\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
 /Zc:inline
 /nologo
