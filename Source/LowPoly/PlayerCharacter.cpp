@@ -28,11 +28,11 @@ APlayerCharacter::APlayerCharacter()
 	//SpringArmComp->bUsePawnControlRotation = true;
 
 	//Setting class variables of the Character movement component
-	GetCharacterMovement()->bOrientRotationToMovement = true;
+	//GetCharacterMovement()->bOrientRotationToMovement = true;
 
-	GetCharacterMovement()->bUseControllerDesiredRotation = true;
+	//GetCharacterMovement()->bUseControllerDesiredRotation = true;
 
-	GetCharacterMovement()->bIgnoreBaseRotation = true;
+	//GetCharacterMovement()->bIgnoreBaseRotation = true;
 }
 
 // Called when the game starts or when spawned
