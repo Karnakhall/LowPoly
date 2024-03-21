@@ -17,7 +17,7 @@ APlayerCharacter::APlayerCharacter()
 	CameraComp = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComp"));
 	*/
 	// Set the location and rotation of the Character Mesh Transform
-	//GetMesh()->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, -90.0f), FQuat(FRotator(0.0f, -90.0f, 0.0f)));
+	GetMesh()->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, -90.0f), FQuat(FRotator(0.0f, -90.0f, 0.0f)));
 
 	//Attaching your class Components to the default character's Skeletal Mesh
 	//SpringArmComp->SetupAttachment(GetMesh());
