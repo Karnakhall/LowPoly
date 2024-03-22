@@ -12,27 +12,27 @@ APlayerCharacter::APlayerCharacter()
 	PrimaryActorTick.bCanEverTick = true;
 
 	// Instantiating your class Components
-	SpringArmComp = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArmComp"));
+	//SpringArmComp = CreateDefaultSubobject<USpringArmComponent>(TEXT("SpringArmComp"));
 
-	CameraComp = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComp"));
-
+	//CameraComp = CreateDefaultSubobject<UCameraComponent>(TEXT("CameraComp"));
+	
 	// Set the location and rotation of the Character Mesh Transform
 	GetMesh()->SetRelativeLocationAndRotation(FVector(0.0f, 0.0f, -90.0f), FQuat(FRotator(0.0f, -90.0f, 0.0f)));
 
 	//Attaching your class Components to the default character's Skeletal Mesh
-	SpringArmComp->SetupAttachment(GetMesh());
+	//SpringArmComp->SetupAttachment(GetMesh());
 
-	CameraComp->SetupAttachment(SpringArmComp, USpringArmComponent::SocketName);
+	//CameraComp->SetupAttachment(SpringArmComp, USpringArmComponent::SocketName);
 
 	//Setting class variables of the spring arm
-	SpringArmComp->bUsePawnControlRotation = true;
+	//SpringArmComp->bUsePawnControlRotation = true;
 
 	//Setting class variables of the Character movement component
-	GetCharacterMovement()->bOrientRotationToMovement = true;
+	//GetCharacterMovement()->bOrientRotationToMovement = true;
 
-	GetCharacterMovement()->bUseControllerDesiredRotation = true;
+	//GetCharacterMovement()->bUseControllerDesiredRotation = true;
 
-	GetCharacterMovement()->bIgnoreBaseRotation = true;
+	//GetCharacterMovement()->bIgnoreBaseRotation = true;
 }
 
 // Called when the game starts or when spawned
