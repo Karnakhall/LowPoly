@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotools.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal 5\\clickteam\\lowpoly\\intermediate\\build\\win64\\x64\\lowpolyeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

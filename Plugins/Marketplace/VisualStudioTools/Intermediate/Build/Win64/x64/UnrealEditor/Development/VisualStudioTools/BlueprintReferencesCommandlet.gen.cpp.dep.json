@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\blueprintreferencescommandlet.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "e:\\unreal 5\\clickteam\\lowpoly\\intermediate\\build\\win64\\x64\\lowpolyeditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\visualstudiotools\\definitions.visualstudiotools.h",
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\source\\visualstudiotools\\private\\blueprintreferencescommandlet.h",
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\source\\visualstudiotools\\private\\visualstudiotoolscommandletbase.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\commandlets\\commandlet.h",
+            "c:\\program files\\epic games\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\commandlet.generated.h",
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\visualstudiotoolscommandletbase.generated.h",
+            "e:\\unreal 5\\clickteam\\lowpoly\\plugins\\marketplace\\visualstudiotools\\intermediate\\build\\win64\\unrealeditor\\inc\\visualstudiotools\\uht\\blueprintreferencescommandlet.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
