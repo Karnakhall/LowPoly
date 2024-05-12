@@ -1,11 +1,11 @@
-"D:\VFX\LowPoly2\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
-/FI"D:\VFX\LowPoly2\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/FI"D:\VFX\LowPoly2\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
-/Yu"D:\VFX\LowPoly2\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
-/Fp"D:\VFX\LowPoly2\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
-/Fo"D:\VFX\LowPoly2\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
-/sourceDependencies "D:\VFX\LowPoly2\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
-@"D:\VFX\LowPoly2\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
+"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp"
+/FI"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/FI"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Definitions.VisualStudioTools.h"
+/Yu"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h"
+/Fp"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Intermediate\Build\Win64\x64\LowPolyEditor\Development\UnrealEd\SharedPCH.UnrealEd.Cpp20.h.pch"
+/Fo"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.obj"
+/sourceDependencies "C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\Module.VisualStudioTools.cpp.dep.json"
+@"C:\Users\GniewkoPC\Documents\GitHub\LowPoly\Plugins\Marketplace\VisualStudioTools\Intermediate\Build\Win64\x64\UnrealEditor\Development\VisualStudioTools\VisualStudioTools.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi
