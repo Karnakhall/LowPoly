@@ -1,4 +1,4 @@
-#include "E:/Unreal 5/ClickTeam/LowPoly/Intermediate/Build/Win64/x64/LowPolyEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
+#include "C:/Users/Stoigniew/Documents/GitHub/LowPoly/Intermediate/Build/Win64/x64/LowPolyEditor/Development/UnrealEd/SharedDefinitions.UnrealEd.Cpp20.h"
 #undef UE_IS_ENGINE_MODULE
 #undef DEPRECATED_FORGAME
 #define DEPRECATED_FORGAME DEPRECATED
